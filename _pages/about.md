@@ -20,13 +20,15 @@ During my PhD, I am primarily interested in exploring questions such as:
 - **TODO**
 
 Prior to my doctoral studies, my research experiences included:
-- **Clinical Decision Support**: TODO
-- **Domain Transfer and Generative Modeling**: TODO
-- **Tumor Ablation Technologies**: TODO
+- **Clinical Decision Support**: Many clinical decision support systems, especially diagnositics, suffer from intra-observer variability, workflow bottlenecks, and high costs, which often limit the reach of healthcare systems. Automated diagnosis systems leveraging large amounts of data are a key solution. Since starting out in research, I have worked on various projects, including 1) Efficient automated severity classification of diabetic retinopathy in fundus photographs and 2) Optimizing transfer learning for COVID-19 diagnosis in small CT-scans datasets.   
+- **Domain Transfer and Generative Modeling**: Many African countries have a single MRI machine for a million patients, thus underscoring the need for technologis that will reduce MRI acquisition times and costs. Since an MRI sequence often consists of T1-weighted and T2-weighted scans, can we use machine learning to translate a patient's T1 scan into their T2 scan, thus cutting down on MRI times? In my previous work, I showed how incorporating stylistic losses in generative adversarial networks can help translate both healthy and unhealthy T1 brain MRI to T2 scans. 
+- **Tumor Ablation Technologies**: Liver tumor ablation is a minimally-invasive procedure to kill tumors *in situ* by heating them. However, current technologies only allow ablation of spherical tumors. Along with my senior capstone team, I designed an ablation probe that provides greater spatial control to interventional radiologists during tumor ablation procedures.
+- **Computational Biomechanics**: Numerous crash testing and surgical planning softwares rely on accuracte computational models of skeletal muscles. However, the role of fluid in compressive skeletal muscle biomechanics as well as other surrounding tissues like the aponeurosis is not fully understood. In my undergraduate research, I explored viscoelastic and finite element models of skeletal muscle and aponeurosis to understand the role of fluid in their mechanical properties.   
 
 Aside from these projects, I have also ventured into:
-- **Vector Classification in African Countries**: TODO
-- **Fractional Calculus**: TODO
+- **Predicting Cardiac Biopsy Rejection**: After a patient receives a heart transplant, routine biopsies are taken to determine the patient's risk for transplant rejection. Using machine learning to model longitudinal heart biopsies, my research partners and I were able to show that we can predict future cardiac rejection events as well as risk with high fidelity. 
+- **Vector Classification in African Countries**: In order to effectively control mosquito spread, entomologists need to determine the species, sex, infectivity, and abdominal status of mosquitoes. Lack of microscopes and entolomologists is creating a major bottleneck in this workflow, thus preventing effecive mosquito control. Along with the JHU Center for Biomedical Innovation and Ghana's Ministry of Health, I created a robust and interpretable machine learning algorithm to determine species, sex, and abdominal status of mosquitoes. The lightweight algorithm can run on mobile phones and is being tested in Ghana, Zambia, and Uganda.  
+
 
 Select Publications
 ======
