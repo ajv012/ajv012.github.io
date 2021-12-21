@@ -32,6 +32,9 @@ Aside from these projects, I have also ventured into:
 
 Select Publications
 ======
+- **Vaidya, A. J.**, and Stough J. V., Patel A. A. “Perceptually improved T1-T2 MRI translations using conditional generative adversarial networks”, SPIE Medical Imaging, 2022
+- **Vaidya, A. J.**, and Wheatley B, B. “An experimental and computational investigation of the effects of volumetric boundary conditions on the compressive mechanics of passive skeletal muscle.” Journal of the Mechanical Behavior of Biomedical Materials 102 (2020): 103526.
+
 
 
 
