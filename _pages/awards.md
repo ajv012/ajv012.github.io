@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Honors and Awards
-=====
-
 **2021**
 - **Winner of Bucknell BizPitch**: Successfully pitched an augmented reality based clothes store to a panel of investors for initial funding
 - **Oliver J Decker Prize**: A prize for that member of the graduating class from Bucknell University's College of Engineering who has attained the highest average, all courses having been taken at Bucknell University.
