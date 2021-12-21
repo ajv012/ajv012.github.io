@@ -4,14 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=4Z2Qu_YAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-Publications
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=4Z2Qu_YAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
+Journals
 ======
 - **Vaidya, A. J.**, Stough J. V., Patel A. A. “Perceptually improved T1-T2 MRI translations using conditional generative adversarial networks”, SPIE Medical Imaging, [2022](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z2Qu_YAAAAJ&citation_for_view=4Z2Qu_YAAAAJ:WF5omc3nYNoC).
 - Grega, K. L., Segall, R. N., **Vaidya, A. J.**, Fu, C., & Wheatley B. B. “Anisotropic and viscoelastic tensile mechanical properties of aponeurosis: Experimentation, modeling, and tissue microstructure.” Journal of the Mechanical Behavior of Biomedical Materials 110 (2020): [103889](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Z2Qu_YAAAAJ&citation_for_view=4Z2Qu_YAAAAJ:u-x6o8ySG0sC).
